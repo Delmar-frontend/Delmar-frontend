@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Acerca de Mí<br><br>Soy un desarrollador de software con sede en Costa Rica. Me apasiona construir soluciones web funcionales, modernas y con una excelente experiencia de usuario.<br><br>Tengo experiencia creando proyectos personales y también he colaborado en el desarrollo de soluciones web para empresas, incluyendo plataformas de venta de repuestos y sistemas para restaurantes.<br><br>Mi enfoque combina una sólida base en el desarrollo front-end y back-end con un ojo para el diseño y la usabilidad.</p>
+<p align="center">Acerca de Mí<br><br>Soy un desarrollador de software con sede en Costa Rica. Me apasiona construir soluciones web funcionales, modernas y con una excelente experiencia de usuario.<br><br>Tengo experiencia creando proyectos personales y también he colaborado en el desarrollo de soluciones web para empresas, incluyendo plataformas de venta de repuestos y sistemas para restaurantes.<br><br>Mi enfoque combina una sólida base en el desarrollo front-end y back-end con un ojo para el diseño y la usabilidad.</p>
 
 ###
 
